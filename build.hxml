@@ -1,0 +1,6 @@
+-cp src
+-cp example
+-lib hamcrest
+-swf bin/example.swf
+-main Main.hx
+-debug

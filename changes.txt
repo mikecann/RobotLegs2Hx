@@ -1,0 +1,7 @@
+EventCommandTrigger 85
+MessageCommandTrigger 81
+applyHooks.as
+guardsAppove.as
+safelyCallback.as
+
+DescribeTypeReflector.as 38 78 104 208
